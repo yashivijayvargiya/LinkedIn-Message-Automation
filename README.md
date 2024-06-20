@@ -5,7 +5,9 @@ Make sure you have these packages installed in your Python environment. You can 
 
 Copy code
 pip install selenium
+
 pip install webdriver-manager
+
 pip install openpyxl
 
 Use webdriver.Chrome(ChromeDriverManager().install()) to automatically download and manage the ChromeDriver.
