@@ -71,9 +71,6 @@ The script performs the following steps:
 
 Contributions are welcome! Please create a pull request with your changes or open an issue to discuss improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
