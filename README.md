@@ -23,7 +23,7 @@ This project automates the process of logging into LinkedIn and sending personal
 1. Clone the repository:
     ```bash
     git clone https://github.com/yashivijayvargiya/LinkedIn-Message-Automation
-    cd linkedin-automation
+    cd LinkedIn-Message-Automation
     ```
 
 2. Install the required Python packages:
