@@ -1,3 +1,4 @@
+
 # LinkedIn Automation with Selenium
 
 This project automates the process of logging into LinkedIn and sending personalized messages to connections using Selenium WebDriver.
